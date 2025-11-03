@@ -1,0 +1,21 @@
+Algoritmo contar_pares
+	
+	//Cuadrados del 1 al 10//
+	Definir contador Como Entero
+    contador <- 0
+    Para i <- 1 Hasta 20 Con Paso 1 Hacer
+        Si i MOD 2 = 0 Entonces
+            contador <- contador + 1
+        FinSi
+    FinPara
+    Escribir "Cantidad de pares entre 1 y 20: ", contador	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+FinAlgoritmo
